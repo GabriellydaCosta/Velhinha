@@ -72,6 +72,7 @@ Ele apresenta uma interface gráfica com imagens personalizadas, música de fund
 
 - Certifique-se de que os arquivos de imagem e música estejam corretamente nomeados e localizados nas pastas indicadas.
 
+<br/>
 
 ## 📄 Licença
 Este projeto é de uso livre para fins educacionais e pessoais. Sinta-se à vontade para modificar e expandir!
